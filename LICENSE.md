@@ -1,4 +1,4 @@
-#  
+#  instant Integration for Alfred for macOS - OCR scanning and widgets offers the most advanced Alfred for macOS integration, with OCR scanning and widgets. Ideal for professionals.
 
 
 
